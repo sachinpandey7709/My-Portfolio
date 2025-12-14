@@ -20,8 +20,6 @@ I enjoy building real-world projects, experimenting with security tools, and con
 
 👉 [Visit My Live Portfolio](https://sachinpandey7709.github.io/My-Portfolio/)
 
----
-
 ## 🛠️ Technologies Used
 
 * **Frontend:** HTML5, CSS3, JavaScript
