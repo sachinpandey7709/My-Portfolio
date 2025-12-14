@@ -61,7 +61,7 @@ Example: `https://sachinpandey7709.github.io/My-Portfolio/`
 *(Add screenshots of your portfolio here)*
 
 ```
-/assets/screenshots/home.png
+images/bg_1.png
 /assets/screenshots/projects.png
 ```
 
