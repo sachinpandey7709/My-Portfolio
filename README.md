@@ -18,8 +18,7 @@ I enjoy building real-world projects, experimenting with security tools, and con
 
 ## 🌐 Live Portfolio
 
-👉 *(Add your live portfolio link here)*
-Example: `https://sachinpandey7709.github.io/My-Portfolio/`
+👉 `https://sachinpandey7709.github.io/My-Portfolio/`
 
 ---
 
@@ -53,17 +52,6 @@ Example: `https://sachinpandey7709.github.io/My-Portfolio/`
 * 📟 **IoT & Pico W Based Scripts**
 
 > ⚠️ All security-related projects are strictly for **educational and ethical purposes only**.
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots of your portfolio here)*
-
-```
-images/bg_1.png
-/assets/screenshots/projects.png
-```
 
 ---
 
