@@ -18,7 +18,7 @@ I enjoy building real-world projects, experimenting with security tools, and con
 
 ## 🌐 Live Portfolio
 ```bash
-👉 [Visit My Live Portfolio](https://sachinpandey7709.github.io/My-Portfolio/)
+https://sachinpandey7709.github.io/My-Portfolio/
 ```
 
 ## 🛠️ Technologies Used
